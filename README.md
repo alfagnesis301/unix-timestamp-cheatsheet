@@ -138,4 +138,4 @@ SELECT UNIX_TIMESTAMP('2026-07-01 00:00:00');   -- MySQL
 
 ---
 
-MIT — contributions welcome. Built as a companion to [chrono-time.site](https://chrono-time.site/).
+MIT — contributions welcome. Built as a companion to [chrono-time.site](https://chrono-time.site/). More free browser-side tools by the same maker: [TextPulses](https://textpulses.com/) (word counter, SEO title & meta checkers, readability).
